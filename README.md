@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Hi+There!+👋+I'm+Muhammad+Ilham+Afif;Full-Stack+Software+Engineer;AI+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Hi+There!+👋+I'm+M.+Ilham+Afif;Full-Stack+Software+Engineer;AI+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 S.Kom. Graduate | Java & Next.js Specialist</h3>
